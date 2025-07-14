@@ -1,4 +1,4 @@
-### VARIABLES
+### VARIABLES-trial
 variable "project-id" {
   type = string
 }
