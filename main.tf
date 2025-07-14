@@ -5,7 +5,7 @@ provider "google" {
   zone    = var.zone
 }
 
-### COMPUTE
+### COMPUTE-trial
 ## NGINX PROXY
 resource "google_compute_instance" "nginx_instance" {
   name         = "nginx-proxy"
